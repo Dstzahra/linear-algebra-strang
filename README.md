@@ -1,10 +1,8 @@
 # 📚 Introduction to Linear Algebra (6th Edition) - Gilbert Strang
 
-راهنما و خلاصه‌درس‌های دو زبانه (فارسی / انگلیسی) برای کتاب جبر خطی گیلبرت استرانگ.
-
 ---
 
-## 🗺️ Course Outline & Progress | سرفصل‌ها و روند پیشرفت
+## 🗺️ Course Outline & Progress
 
 ### 🔹 Chapter 1: Vectors and Matrices
 - [x] **1.1** Vectors and Linear Combinations
@@ -86,7 +84,7 @@
 
 ---
 
-## 🛠️ Project Structure | ساختار پروژه
+## 🛠️ Project Structure
 
 ```text
 .
