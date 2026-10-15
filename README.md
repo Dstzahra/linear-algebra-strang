@@ -5,7 +5,7 @@
 ## 🗺️ Course Outline & Progress
 
 ### 🔹 Chapter 1: Vectors and Matrices
-- [x] **1.1** Vectors and Linear Combinations
+- [ ] **1.1** Vectors and Linear Combinations
 - [ ] **1.2** Lengths and Angles from Dot Products
 - [ ] **1.3** Matrices and Their Column Spaces
 - [ ] **1.4** Matrix Multiplication $AB$ and $CR$
