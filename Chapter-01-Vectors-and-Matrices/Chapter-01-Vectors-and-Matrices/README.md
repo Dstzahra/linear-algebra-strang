@@ -13,7 +13,9 @@ A vector can be represented in two complementary ways:
 ### Example Vectors from Preface
 We start with two vectors in 3D space ($\mathbb{R}^3$):
 
-$$a_1 = \begin{bmatrix} 2 \\ 3 \\ 1 \end{bmatrix}, \quad a_2 = \begin{bmatrix} 1 \\ 4 \\ 2 \end{bmatrix}, \quad \mathbf{0} = \begin{bmatrix} 0 \\ 0 \\ 0 \end{bmatrix}$$
+$$
+a_1 = \begin{bmatrix} 2 \\ 3 \\ 1 \end{bmatrix}, \quad a_2 = \begin{bmatrix} 1 \\ 4 \\ 2 \end{bmatrix}, \quad \mathbf{0} = \begin{bmatrix} 0 \\ 0 \\ 0 \end{bmatrix}
+$$
 
 ---
 
@@ -22,13 +24,19 @@ $$a_1 = \begin{bmatrix} 2 \\ 3 \\ 1 \end{bmatrix}, \quad a_2 = \begin{bmatrix} 1
 The fundamental operation in linear algebra is taking **linear combinations** of vectors.
 
 ### 1. Vector Addition ($a_1 + a_2$)
-$$a_1 + a_2 = \begin{bmatrix} 2 \\ 3 \\ 1 \end{bmatrix} + \begin{bmatrix} 1 \\ 4 \\ 2 \end{bmatrix} = \begin{bmatrix} 3 \\ 7 \\ 3 \end{bmatrix}$$
+$$
+a_1 + a_2 = \begin{bmatrix} 2 \\ 3 \\ 1 \end{bmatrix} + \begin{bmatrix} 1 \\ 4 \\ 2 \end{bmatrix} = \begin{bmatrix} 3 \\ 7 \\ 3 \end{bmatrix}
+$$
 
 ### 2. Scalar Multiplication ($2a_1$)
-$$2a_1 = 2 \begin{bmatrix} 2 \\ 3 \\ 1 \end{bmatrix} = \begin{bmatrix} 4 \\ 6 \\ 2 \end{bmatrix}$$
+$$
+2a_1 = 2 \begin{bmatrix} 2 \\ 3 \\ 1 \end{bmatrix} = \begin{bmatrix} 4 \\ 6 \\ 2 \end{bmatrix}
+$$
 
 ### 3. Combining Operations ($2a_1 + a_2$)
-$$2a_1 + a_2 = \begin{bmatrix} 4 \\ 6 \\ 2 \end{bmatrix} + \begin{bmatrix} 1 \\ 4 \\ 2 \end{bmatrix} = \begin{bmatrix} 5 \\ 10 \\ 4 \end{bmatrix}$$
+$$
+2a_1 + a_2 = \begin{bmatrix} 4 \\ 6 \\ 2 \end{bmatrix} + \begin{bmatrix} 1 \\ 4 \\ 2 \end{bmatrix} = \begin{bmatrix} 5 \\ 10 \\ 4 \end{bmatrix}
+$$
 
 ---
 
